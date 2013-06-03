@@ -1,4 +1,4 @@
-linked_list_and_operations
+A repository containing algorithimic implementations
 ==========================
 
-program to create a linked list and perform some operations such as :splitting linked list,concatenating linked list,displaying linked list.
+P1:program to create a linked list and perform some operations such as :splitting linked list,concatenating linked list,displaying linked list.
